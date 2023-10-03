@@ -1,4 +1,12 @@
 # 📊 Calculadora de Conversiones
+![image](https://github.com/ramonsolis11/CALCULADORA_CONVERSIONES/assets/80738178/718d6c4f-3e8a-49dd-a7a5-83e5e0ba34ff)
+![image](https://github.com/ramonsolis11/CALCULADORA_CONVERSIONES/assets/80738178/5d110bd8-c3ae-4fe4-a1b7-170824cf8ff3)
+![image](https://github.com/ramonsolis11/CALCULADORA_CONVERSIONES/assets/80738178/2a35e706-1ee1-4474-93e2-69f56a4241ab)
+![image](https://github.com/ramonsolis11/CALCULADORA_CONVERSIONES/assets/80738178/54712082-aecb-4f34-a01d-2cc0889a5f43)
+
+
+
+
 
 Esta es una calculadora de conversiones desarrollada en PHP que te permite convertir unidades de medida en diferentes categorías, como longitud, masa, volumen, datos, moneda y tiempo. La aplicación sigue los principios de la Programación Orientada a Objetos (POO) y se adhiere a los principios SOLID para garantizar un código limpio y modular.
 
