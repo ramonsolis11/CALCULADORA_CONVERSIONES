@@ -1,0 +1,180 @@
+/* Reset de estilos y definición de fuentes y colores globales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos globales del cuerpo del documento */
+body {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #194F7E;
+    color: #fff;
+}
+
+/* Estilos para enlaces de navegación */
+.nav-link:hover {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Estilos para el botón de navegación */
+.boton {
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
+    margin: 1rem 3rem;
+    width: 150px;
+    cursor: pointer;
+    background-color: #010120;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Clase para centrar elementos horizontalmente */
+.text-center {
+    text-align: center;
+}
+
+/* Clase para botones personalizados */
+.custom-button {
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
+    margin: 1rem 3rem;
+    width: 150px;
+    cursor: pointer;
+    background-color: #010120;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Clase para botones personalizados */
+.custom-button:hover {
+    background-color: #010120;
+    transform: scale(1.1);
+}
+
+/* Estilos para los formularios */
+.form-label {
+    font-weight: bold;
+    color: #010120;
+}
+
+.form-select {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+
+/* Estilos para el footer */
+footer {
+    background-color: #010120;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Estilos para pantallas pequeñas (dispositivos móviles) */
+@media (max-width: 768px) {
+
+}
+
+/* Estilos para pantallas medianas (tabletas) */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+/* Tamaño de fuente más grande en dispositivos móviles */
+@media (max-width: 768px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+/* Tamaño de botones más pequeño en dispositivos móviles */
+@media (max-width: 768px) {
+    .custom-button {
+        font-size: 16px;
+        padding: 0.75rem 1rem;
+    }
+}
+
+/* Tamaño de fuente más grande en dispositivos móviles */
+@media (max-width: 768px) {
+    .form-label {
+        font-size: 18px;
+    }
+}
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 768px) {
+    /* Estilos para el botón hamburguesa */
+    .navbar-toggler {
+        display: block;
+        background-color: transparent;
+        border: none;
+        color: #fff;
+        font-size: 24px;
+        padding: 10px 15px;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 999;
+    }
+
+    /* Estilos para el menú desplegable */
+    .navbar-collapse {
+        position: absolute;
+        top: 60px;
+        right: 0;
+        background-color: #194F7E;
+        width: 100%;
+        display: none;
+        z-index: 998;
+    }
+
+    /* Mostrar el menú cuando se hace clic en el botón */
+    .navbar-toggler:focus + .navbar-collapse {
+        display: block;
+    }
+}
+
+/* Estilos para pantallas pequeñas (dispositivos móviles) */
+@media (max-width: 768px) {
+    footer {
+        padding: 0.5rem;
+        font-size: 14px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
