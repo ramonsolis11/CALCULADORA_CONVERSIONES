@@ -55,7 +55,7 @@
             </ol>
 
 
-            <p>Para obtener más detalles sobre cómo se realizó el proyecto y ver fotos de la presentación, visita mi <a href="https://github.com/tu-usuario/tu-repositorio" target="_blank">repositorio en GitHub</a>.</p>
+            <p>Para obtener más detalles sobre cómo se realizó el proyecto y ver fotos de la presentación, visita mi <a href="https://github.com/ramonsolis11/CALCULADORA_CONVERSIONES" target="_blank">repositorio en GitHub</a>.</p>
         </div>
     </main>
 
